@@ -35,6 +35,7 @@ public class LX {
 		
 		//给定一个任意的大写字母A~Z，转换为小写字母。
 		//变更
+		//更改
 		
 		char  k = 'A';
 		char  l = (char)(k+32);
